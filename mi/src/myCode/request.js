@@ -4,8 +4,8 @@ import store from '../store'
 export function request(config) {
 	// 1.创建axios的实例
 	const instance = axios.create({
-		// baseURL: 'http://119.28.7.180:8080/',
-		baseURL: 'http://blog.com/',
+		baseURL: 'http://121.37.225.165/:8080/',
+		// baseURL: 'http://blog.com/',
 		timeout: 5000,
 		method: 'post'
 	})
