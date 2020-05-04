@@ -50,7 +50,7 @@
         <img src="../../assets/layout/two.jpg" />
       </a>
       <a href="/goodsDetail/4">
-        <img src="http://119.28.7.180:8080/img/t2.jpg" />
+        <img src="http://121.37.225.165:8080/img/t2.jpg" />
       </a>
     </div>
   </div>

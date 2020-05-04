@@ -58,10 +58,10 @@
 				// listNum: 0,
 				// bannerArr: [],
 				bannerArr: [ 
-					{ "id": 1, "type": 1, "title": "红米note8", "path": "http://119.28.7.180:8080/img/1.webp" }, 
-					{ "id": 5, "type": 1, "title": "小米电视4c", "path": "http://119.28.7.180:8080/img/2.webp" }, 
-					{ "id": 4, "type": 1, "title": "红米k30 5G", "path": "http://119.28.7.180:8080/img/3.jpg" } ,
-					{ "id": 6, "type": 1, "title": "红米k30", "path": "http://119.28.7.180:8080/img/3.webp" } ,
+					{ "id": 1, "type": 1, "title": "红米note8", "path": "http://121.37.225.165:8080/img/1.webp" }, 
+					{ "id": 5, "type": 1, "title": "小米电视4c", "path": "http://121.37.225.165:8080/img/2.webp" }, 
+					{ "id": 4, "type": 1, "title": "红米k30 5G", "path": "http://121.37.225.165:8080/img/3.jpg" } ,
+					{ "id": 6, "type": 1, "title": "红米k30", "path": "http://121.37.225.165:8080/img/3.webp" } ,
 				],
 				listData: [],
 				backData: []
