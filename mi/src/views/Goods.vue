@@ -365,7 +365,7 @@
 
 	.numInput input {
 		border: 0px;
-		width: 72px;
+		width: 68px;
 		height: 38px;
 		text-align: center;
 	}
